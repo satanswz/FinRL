@@ -4170,7 +4170,7 @@ name = "pyportfolioopt"
 version = "1.5.4"
 description = "Financial portfolio optimization in python"
 optional = false
-python-versions = ">=3.8,<3.11"
+python-versions = ">=3.8,<3.12"
 files = [
     {file = "pyportfolioopt-1.5.4-py3-none-any.whl", hash = "sha256:36f8a409da6182842e6f3e13c1659619aef38b0cb07e44f16db03ee924b09029"},
     {file = "pyportfolioopt-1.5.4.tar.gz", hash = "sha256:97cee69e6cd5a9ea597a510df3769032141c12fa0e34771ffe7eca7e11ee4189"},
